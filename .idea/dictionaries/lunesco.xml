@@ -2,6 +2,8 @@
   <dictionary name="lunesco">
     <words>
       <w>pycache</w>
+      <w>pythonpath</w>
+      <w>testpass</w>
     </words>
   </dictionary>
 </component>
